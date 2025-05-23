@@ -74,7 +74,7 @@
 
     <script src="script.js"></script>
     
-        <img src="public/img/background.jpg" class="background-image">
+        <img src="attendance/public/img/background.jpg" class="background-image">
     
 </body>
 </html>
