@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "jabatan": "DEKAN",
+    "bidang": "Fakultas Keolahragaan",
+    "nama": "Prof. Dr. Sapta Kunta Purnama, M.Pd.",
+    "status": "ADA",
+    "alasan": "",
+    "foto": "dekan.jpg"
+  },
+  {
+    "id": 2,
+    "jabatan": "WAKIL DEKAN",
+    "bidang": "Bidang Akademik dan Penelitian",
+    "nama": "Dr. Rony Syaifullah, S.Pd., M.Pd.",
+    "status": "TIDAK ADA",
+    "alasan": "Sedang menghadiri Konferensi Internasional",
+    "foto": "Picture2.jpg"
+  },
+  {
+    "id": 2,
+    "jabatan": "WAKIL DEKAN",
+    "bidang": "Bidang Non Akademik",
+    "nama": "Dr. Islahuzzaman Nuryadin, S.Pd., M.Or.",
+    "status": "ADA",
+    "alasan": "",
+    "foto": "Picture3.jpg"
+  },
+  {
+    "id": 2,
+    "jabatan": "WAKIL DEKAN",
+    "bidang": "Bidang Kemahasiswaan dan Alumni",
+    "nama": "Dr. Haris Nugroho, S.Pd., M.Or.",
+    "status": "ADA",
+    "alasan": "",
+    "foto": "Picture4.jpg"
+  }
+]
